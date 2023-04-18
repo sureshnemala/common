@@ -3,3 +3,7 @@ kind:
 spec:
 metadata:
 app:
+  kind :
+    data:
+      spec:
+        metadata:
