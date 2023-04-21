@@ -7,4 +7,5 @@ app:
     data:
       spec:
         metadata:
-          done
+          spec:
+            metadata:
